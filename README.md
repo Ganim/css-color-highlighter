@@ -37,16 +37,6 @@ If you find an issue, feel free to report it on [GitHub Issues](https://github.c
 
 - Initial release with basic CSS variable highlighting.
 
-### 1.0.1
-
-- Fixed issue with color detection in nested styles.
-
-### 1.1.0
-
-- Added support for SCSS and LESS files.
-
-- Improved performance with large stylesheets.
-
 ---
 
 ## Development Guidelines
